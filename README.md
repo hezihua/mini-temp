@@ -2,7 +2,8 @@
 
 项目模板
 
-### 技术栈
+### 技术栈  
+
 
 - 前端框架：[uni-app](https://uniapp.dcloud.net.cn/) (Vue3 + TS + Setup)
 - 状态管理：[pinia](https://pinia.vuejs.org/zh/)
